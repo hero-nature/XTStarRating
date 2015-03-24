@@ -5,4 +5,4 @@
 
 效果图：
 
-![image](https://github.com/hero-nature/XTStarRating/edit/master/demo.gif)
+![image](https://github.com/hero-nature/XTStarRating/master/demo.gif)
